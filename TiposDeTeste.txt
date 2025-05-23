@@ -1,0 +1,37 @@
+* O que é Teste de software e quais os tipos de testes:
+
+Um teste de software é o processo de avaliar um sistema ou componente de software para verificar se ele atende aos requisitos especificados e para identificar defeitos. O objetivo dos testes de software é garantir a qualidade do produto, minimizando o risco de falhas após o lançamento.
+
+
+Existem diversos tipos de testes de software, cada um com um propósito específico:
+
+
+Teste Unitário: Foca na menor parte do software, geralmente uma única função ou método, para garantir que cada parte individual funciona corretamente.
+
+
+
+Teste de Integração: Verifica se diferentes módulos ou partes do sistema funcionam juntos conforme esperado.
+
+
+
+Teste de Sistema: Avalia o sistema como um todo, testando todas as funcionalidades integradas para garantir que o software atende aos requisitos.
+
+
+
+Teste de Aceitação: Realizado por clientes ou usuários finais para confirmar se o software está pronto para uso e atende às suas expectativas.
+
+
+
+Teste de Performance: Avalia o comportamento do software sob carga, verificando velocidade, escalabilidade e estabilidade.
+
+
+
+Teste de Segurança: Analisa o sistema para identificar vulnerabilidades e garantir que os dados estão protegidos contra acessos não autorizados.
+
+
+
+Teste de Usabilidade: Focado na experiência do usuário, verificando se a interface é intuitiva e fácil de usar.
+
+
+
+Esses testes são elementos-chave do processo de desenvolvimento de software, garantindo que o produto final seja robusto, funcional e seguro.

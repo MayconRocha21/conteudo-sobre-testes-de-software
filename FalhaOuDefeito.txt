@@ -1,0 +1,14 @@
+* O que significa falha ou defeito em um ambiente de teste:
+
+Em um ambiente de teste, é importante entender a distinção entre "falha" e "defeito", pois ambos têm impacto na qualidade do software, mas representam conceitos diferentes:
+
+
+Defeito:
+Um defeito, muitas vezes chamado de "bug", é uma imperfeição no código ou design do software que pode levar a um comportamento incorreto. Os defeitos são geralmente introduzidos durante o desenvolvimento ou manutenção do software. Eles são erros feitos pelos desenvolvedores ou resultantes de um design inadequado, especificações faltantes ou incorretas. Um defeito pode estar presente no software sem necessariamente causar uma falha, dependendo se a execução do programa atinge aquela parte do código afectada.
+
+
+Falha:
+Uma falha ocorre quando o software se comporta de maneira diferente do esperado ou especificado devido a um defeito. É o resultado visível ou experimentado quando o software não age conforme pretendido. Uma falha se manifesta durante a execução e é o momento em que o impacto do defeito é percebido pelo usuário ou durante o teste.
+
+
+Em resumo, um defeito é a causa subjacente localizada no código ou design que pode eventualmente levar a uma falha, que é o efeito ou sintoma que ocorre quando o software apresenta um comportamento indesejado.
